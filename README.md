@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm EVIL EYE PROJECT STUDIO</h1>
 <h3 align="center">A passionate CREATOR & developer from NEW YORK</h3>
 
-- 👨‍💻 All of my projects are available at [EVILEYE.NYC](EVILEYE.NYC)
+- 👨‍💻 All of my projects are available at [EVILEYE.NYC](https://tell.ie/evileye/ETEHFeMF1Rs0)
 
 - 📫 How to reach me **EVILEYEOST@GMAIL.COM**
 
