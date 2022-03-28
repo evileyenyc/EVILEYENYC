@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm EVIL EYE PROJECT STUDIO</h1>
 <h3 align="center">A passionate CREATOR & developer from NEW YORK</h3>
-<H4><P>EVIL EYE NYC Production Studio is the creative brainchild of Albert Anthony Felipe. 
+<H4><P>EVIL EYE Project Studio is the creative brainchild of Albert Anthony Felipe. 
 Albert is a Dominican American Visual Artist and Music Producer / Sound Engineer Native of Uptown, New York.
 He is currently Working at the EVIL EYE Project Recording Studio in Brooklyn.
 </P></H4>
